@@ -40,7 +40,7 @@ int main() {
 	printf("var j: %d\n", j);
 	printf("var k: %d\n", k);
 	printf("var l: %d\n", l);
-    m += j; // this gives a random value within a range every time! 
+	m += j; // this gives a random value within a range every time! 
 	n = o = 0; // does this work?
 	n -= j; 
 	// o = 5/o; // floating point error
